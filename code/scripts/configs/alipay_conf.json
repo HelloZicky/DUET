@@ -1,0 +1,7 @@
+{
+  "id_dimension": 32,
+  "id_vocab": 8000,
+  "classifier": [128, 64],
+  "mlp_layers": 2,
+  "nhead": 4
+}
