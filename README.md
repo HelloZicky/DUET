@@ -41,7 +41,7 @@ To cite, please use the following BibTeX entry:
 @article{lv2023duetgithub,
   title={DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization(Github)},
   author={{Lv}, Z.}
-  howpublished = {https://github.com/Zicky/DUET},
+  howpublished = {https://github.com/HelloZicky/DUET},
   year={2023}
 }
 ```
